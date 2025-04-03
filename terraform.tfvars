@@ -13,7 +13,7 @@
 */
 metadata = {
   serial-port-enable = "1",
-  ssh-keys = "ubuntu:ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHiZjyQiMYyn9ZJrggVSncksTiG+2NMFf2TVZmROmb6O ssilchin-deb"
+  ssh-keys = "ubuntu:ssh-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF1Ig0ZB/kg0eBRUJv+gpIrvb9nPUXNSyjBaLSUSiihe Netologe01"
 }
 
 test = [
